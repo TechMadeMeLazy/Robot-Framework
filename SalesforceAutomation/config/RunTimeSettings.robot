@@ -1,8 +1,8 @@
 *** Variables ***
-${ENVIRONMENT}=         FUT
+${ENVIRONMENT}=         ITG
 # HeadlessChrome, HeadlessFirefox, Firefox, Chrome
-${BROWSER}=             Chrome
-${DEFEAUL_SLEEP_TIME}=  20 Seconds
-${SELENIUM_SPEED}=      2 Seconds
-${IMPLICIT_TIME}=       60 Seconds
-${LOG_IN_USER}=         User 1
+${BROWSER}=             HeadlessFirefox
+${DEFEAUL_SLEEP_TIME}=  30  Seconds
+${SELENIUM_SPEED}=      3   Seconds
+${IMPLICIT_TIME}=       60  Seconds
+${LOG_IN_USER}=         Test Data
